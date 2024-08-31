@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Max Weber!
 - 👀 I’m interested in DevOps and APIs
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently studying for Sec+
 
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/)
